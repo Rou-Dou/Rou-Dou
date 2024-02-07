@@ -9,4 +9,4 @@
   <li>⏭ Next I intend to start some new data analysis projects to further explore the capabilities of the pandas library in python.</li>
 </ul>
 
-<img src="https://www.iconninja.com/files/646/741/224/original-linkedin-color-icon.png" style="width: auto; height: 30px; cursor: none; margin-top: 15px;"/> You can find my linkedin <a href="https://www.linkedin.com/in/matthew-mahoney-2b229296/" target="_blank">here</a>
+<img src="https://www.iconninja.com/files/646/741/224/original-linkedin-color-icon.png" style="width: auto; height: 30px; cursor: default;"/> You can find my linkedin <a href="https://www.linkedin.com/in/matthew-mahoney-2b229296/" target="_blank">here</a>
