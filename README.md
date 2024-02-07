@@ -5,6 +5,8 @@
 <h3>Current projects</h3>
 <ul style="list-style: none;">
   <li>🚧 Currently I'm working on a standard python programming projects, as well as working on sound design and impelmentation in a game in unreal engine.</li>
-  <li>⏭ Next I intend to start some new data analysis projects to further explore the capabilities of the   pandas library in python.</li>
+  <li>
+  <li>⏭ Next I intend to start some new data analysis projects to further explore the capabilities of the pandas library in python.</li>
 </ul>
 
+You can find my linkedin <a href="https://www.linkedin.com/in/matthew-mahoney-2b229296/">here</a>
