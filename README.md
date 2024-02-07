@@ -4,6 +4,7 @@
 <br>
 <ul style="list-style: none;">Current projects</ul>
   <ls>🚧 Currently I'm working on a standard python programming projects, as well as working on sound design and impelmentation in a game in unreal engine.</ls>
+  <br>
   <ls>⏭ Next I intend to start some new data analysis projects to further explore the capabilities of the   pandas library in python.</ls>
   <ls></ls>
 
