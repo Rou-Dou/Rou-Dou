@@ -4,9 +4,9 @@
 <br>
 <h3>Current projects</h3>
 <ul style="list-style: none;">
-  <li>🚧 Currently I'm working on a standard python programming projects, as well as working on sound design and impelmentation in a game in unreal engine.</li>
-  <li>
-  <li>⏭ Next I intend to start some new data analysis projects to further explore the capabilities of the pandas library in python.</li>
+  <li>🚧 Currently working on some simple python programming projects to solidfy new concepts, as well as working on sound design and impelmentation for a game in unreal engine.</li>
+  <li>🌱 Currently learning OOP in C/C++ and refreshing myself on T-SQL.
+  <li>⏭ Next I plan to start some new data analysis projects to further explore the capabilities of the pandas library in python.</li>
 </ul>
 
 <img src="https://www.iconninja.com/files/646/741/224/original-linkedin-color-icon.png" style="width: auto; height: 30px; cursor: default;"/> <a href="www.linkedin.com/in/matthew-mahoney-2b229296" target="_blank">My Linkedin</a>
