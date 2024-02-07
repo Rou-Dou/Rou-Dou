@@ -1,6 +1,6 @@
 <h2>Matthew Mahoney: Data Analyst</h2>
 <br>
-<p>Hello, my name is Matthew Mahoney and I am currently trying to break into the tech world in data. I have spent the last 6 years at Amazon working with Alexa, and in that time I have begun exploring data analysis and programming using R, Python and SQL.</p>
+<p>Hello, my name is Matthew Mahoney(Matt) and I am currently trying to break into the tech world in data. I have spent the last 6 years at Amazon working with Alexa, and in that time I have begun exploring data analysis and programming using R, Python and SQL.</p>
 <br>
 <h3>Current projects</h3>
 <ul>
