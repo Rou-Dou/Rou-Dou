@@ -2,12 +2,17 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        .container{
-          background: black;
+        .container {
+          display: flex;
+          width: 100%;
+          height: 300px;
+          background-color: black;
+          color: white;
         }
       </style>
+
       <div class="container">
-        <h2>Matthew Mahoney: Data Analyst</h2>
+        <h1>Hi there, my name is Nikola 👋</h1>
       </div>
     </div>
   </foreignObject>
