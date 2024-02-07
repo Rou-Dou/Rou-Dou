@@ -9,5 +9,5 @@
   <li>⏭ Next I plan to start some new data analysis projects to further explore the capabilities of the pandas library in python.</li>
 </ul>
 
-<img src="https://www.iconninja.com/files/646/741/224/original-linkedin-color-icon.png" style="width: auto; height: 30px; cursor: default;"/> <a href="https://www.linkedin.com/in/matthew-mahoney-2b229296/" target="_blank"></a>
+<img src="https://www.iconninja.com/files/646/741/224/original-linkedin-color-icon.png" style="width: auto; height: 30px; cursor: default;"/> <a href="https://www.linkedin.com/in/matthew-mahoney-2b229296/" target="_blank">My Linkedin</a>
 
