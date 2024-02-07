@@ -13,7 +13,7 @@
 
 <style>
 ul{
-  list-style:square
+  list-style: square;
 }
 
   
