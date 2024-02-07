@@ -15,6 +15,4 @@
 .listInfo{
   list-style: square;
 }
-
-  
 </style>
